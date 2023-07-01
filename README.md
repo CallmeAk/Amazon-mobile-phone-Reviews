@@ -18,6 +18,10 @@ DESHMUKH NIRANJAN KHUSHAVANTRAO (20BCT0220 - VELLORE)
 A Data Analytics Project that uses Tableau for Visualizations.
 To see the tableau for visualization of the project is at this Github Repository: https://github.com/NIRANJAN-K-DESHMUKH/Amazon-Cell-Phone-Reviews.git
 
+
+
+Demo Video Link- https://drive.google.com/file/d/127p7n23b4AS741xh-6lK99sgkrcLc1e9/view?usp=drive_link
+
 Summary- 
 The Amazon Mobile Phone Reviews project analyzes customer reviews of mobile phones on Amazon to extract valuable insights. It collects and preprocesses a dataset of reviews, applies data analytics techniques like sentiment analysis and text mining to understand customer feedback and preferences. The project also utilizes data visualization to present the findings effectively. The output includes a comprehensive report with analysis results, customer sentiments, prevalent themes, and recommendations. This information helps businesses make data-driven decisions to enhance their product offerings and improve customer satisfaction in the competitive mobile phone market.
 
